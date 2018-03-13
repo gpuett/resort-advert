@@ -1,11 +1,13 @@
 h1{
   color: crimson;
   text-align: center;
+  text-shadow:0 1px black;
 }
 
 h2{
   color: crimson;
   text-align: center;
+  font-family: cursive;
 }
 
 p{
