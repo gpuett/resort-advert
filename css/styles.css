@@ -1,3 +1,22 @@
 h1{
-  color: orange;
+  color: crimson;
+  text-align: center;
+}
+
+h2{
+  color: crimson;
+  text-align: center;
+}
+
+p{
+  font-style: italic;
+}
+
+li{
+  font-weight: bold;
+}
+
+
+body{
+  background-color: skyblue;
 }
